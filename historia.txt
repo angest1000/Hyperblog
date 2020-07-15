@@ -1,0 +1,5 @@
+La Historia de como empece a aprender git:
+Primero me suscribi a platzi y despus hice la carrera de data science
+luego iba a hacer unos cursos de python, pero me cambiaron el orden de los cursos y entonces
+tuve que empezar con el curso de git y github.
+y ya

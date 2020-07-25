@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f49a:
+# Hyperblog :blue_heart:
 
 Utilizaremos este repositorio para trabajar con el [Curso de Git y GitHub](https://platzi.com/cursos/git-github/ "Curso de Git y GitHub") de [Platzi](https://platzi.com/ "Platzi").
 Importante: para poder hacer md's bonitos como este, puedes

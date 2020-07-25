@@ -48,6 +48,10 @@ body
     background: white;
     padding: 1em;
 }
+#post #Im_centro
+{
+    width: 100%;
+}
 #footer
 {
     background: #777777;

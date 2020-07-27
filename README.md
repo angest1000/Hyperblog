@@ -8,3 +8,4 @@ Yo soy [Angel Estrada](https://www.linkedin.com/in/angel-armando-estrada-engallo
 Soy Ingeniero Matemático, y me apasiona el mundo de la programación, las finanzas, inversiones y me gustarías crear mi propia empresa en un futuro no muy lejano.
 
 Creado por Angel, con ayuda de Freddy
+Incluye una explicacion para cada sistema operativo

@@ -9,3 +9,4 @@ Soy Ingeniero Matemático, y me apasiona el mundo de la programación, las finan
 
 Creado por Angel, con ayuda de Freddy
 Incluye una explicacion para cada sistema operativo
+Apto para todo publico

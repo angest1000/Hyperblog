@@ -12,3 +12,5 @@ yo ya sé git :v (mentira)
 y ahora este proyecto se ha vuelto Open Source y me despidieron :v
 
 Master 1
+
+Master 2
